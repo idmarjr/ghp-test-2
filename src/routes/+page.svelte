@@ -6,7 +6,7 @@
 <svelte:head>
 	<title>BRMW - Modelagem de banco de dados online</title>
 	<meta property="og:url" content="https://brmodeloweb.com"/>
-	<meta property="og:image" content="Open Graph Preview"/>
+	<meta property="og:image" content="{OgPreview}"/>
 </svelte:head>
 
 <Main />
